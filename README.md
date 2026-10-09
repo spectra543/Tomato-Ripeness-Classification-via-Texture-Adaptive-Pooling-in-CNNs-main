@@ -5,7 +5,7 @@ Teppakorn Sittiwanchai<sup>[1]</sup>
 
 King Mongkut's University of Technology North Bangkok<sup>[1]</sup>  and Kyushu Institute of Technology<sup>[2]</sup>
 
-Full research article: https://doi.org/10.64960/easr.2026.266223
+Research article: https://doi.org/10.64960/easr.2026.266223
 
 ## Implementation
 In this repository, both the Enhanced Squeeze-and-Excitation Network and the Extended CNNs are implemented using Python and PyTorch.
