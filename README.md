@@ -1,6 +1,6 @@
 # Tomato-Ripeness-Classification-via-Texture-Adaptive-Pooling-in-CNNs
 By Rut Yatigul<sup>[1]</sup>, Wisanu Jitviriya<sup>[1]</sup>, 
-Eiji Hayashi<sup>[2]</sup>, Aran Blattler<sup>[1]</sup> , Watcharin Tangsuksant<sup>[1]</sup>
+Eiji Hayashi<sup>[2]</sup>, Aran Blattler<sup>[1]</sup> , Watcharin Tangsuksant<sup>[1]</sup> and
 Teppakorn Sittiwanchai<sup>[1]</sup> 
 
 King Mongkut's University of Technology North Bangkok<sup>[1]</sup>  and Kyushu Institute of Technology<sup>[2]</sup>
